@@ -1,0 +1,41 @@
+@model IEnumerable<CarModels.Models.Car>
+@{
+  ViewBag.Title = "Index";
+}
+<h2>Car models</h2>
+<p>
+  <a asp-controller="Cars" asp-action="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+  <tr>
+    <th>
+    @Html.DisplayNameFor(model=>model.id)
+    </th>
+    <th>
+    @Html.DisplayNameFor(model=>model.CarModel)
+    </th>
+<th>
+    @Html.DisplayNameFor(model=>model.Brand)
+    </th>
+    <th></th>>
+  </tr>
+</thead>
+<tbody>
+  @foreach (var item in Model)
+  {
+    <tr>
+      <td>
+        @Html.DisplayFor(modelItem => item.CarModel)
+      </td>
+      <td>
+        @Html.DisplayFor(modelItem => item.Brand)
+      </td>
+      <td>
+        <a asp-controller="Cars" asp-action="Delete"
+          asp-route-id="@item.id">Delete</a>
+      </td>
+    </tr>
+  }
+</tbody>
+</table>
