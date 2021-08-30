@@ -1,11 +1,6 @@
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
 using CarModels.Models;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
-using Microsoft.AspNetCore.HttpsPolicy;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
@@ -30,7 +25,7 @@ namespace CarModels
             services.AddEntityFrameworkSqlServer()
                 .AddDbContext<ApplicationDbContext>(options => options.UseSqlServer(
                 Configuration.GetConnectionString("MyConnection")));
-            services.AddEntityFrameworkSqlite()
+            services.AddEntityFrameworkSqlServer()
                 .AddDbContext<ApplicationDbContext>(options => options.UseSqlite(
                 Configuration.GetConnectionString("MyConnection")));
         }
