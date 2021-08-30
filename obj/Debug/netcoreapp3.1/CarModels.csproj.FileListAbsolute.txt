@@ -34,19 +34,14 @@ C:\Users\RN789TB\CarModels\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces
 C:\Users\RN789TB\CarModels\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
 C:\Users\RN789TB\CarModels\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
 C:\Users\RN789TB\CarModels\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
-C:\Users\RN789TB\CarModels\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
 C:\Users\RN789TB\CarModels\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
 C:\Users\RN789TB\CarModels\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
-C:\Users\RN789TB\CarModels\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
 C:\Users\RN789TB\CarModels\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
 C:\Users\RN789TB\CarModels\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
 C:\Users\RN789TB\CarModels\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
-C:\Users\RN789TB\CarModels\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
 C:\Users\RN789TB\CarModels\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
 C:\Users\RN789TB\CarModels\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
-C:\Users\RN789TB\CarModels\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
 C:\Users\RN789TB\CarModels\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
-C:\Users\RN789TB\CarModels\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
 C:\Users\RN789TB\CarModels\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
 C:\Users\RN789TB\CarModels\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
 C:\Users\RN789TB\CarModels\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
@@ -63,8 +58,6 @@ C:\Users\RN789TB\CarModels\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\nativ
 C:\Users\RN789TB\CarModels\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
 C:\Users\RN789TB\CarModels\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
 C:\Users\RN789TB\CarModels\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
-C:\Users\RN789TB\CarModels\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
-C:\Users\RN789TB\CarModels\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
 C:\Users\RN789TB\CarModels\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
 C:\Users\RN789TB\CarModels\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
 C:\Users\RN789TB\CarModels\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
@@ -78,3 +71,6 @@ C:\Users\RN789TB\CarModels\obj\Debug\netcoreapp3.1\CarModels.genruntimeconfig.ca
 C:\Users\RN789TB\CarModels\obj\Debug\netcoreapp3.1\Razor\Views\Cars\Create.cshtml.g.cs
 C:\Users\RN789TB\CarModels\obj\Debug\netcoreapp3.1\Razor\Views\Cars\Delete.cshtml.g.cs
 C:\Users\RN789TB\CarModels\obj\Debug\netcoreapp3.1\Razor\Views\Cars\Index.cshtml.g.cs
+C:\Users\RN789TB\CarModels\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_green.dll
+C:\Users\RN789TB\CarModels\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\RN789TB\CarModels\bin\Debug\netcoreapp3.1\runtimes\win8-arm\native\e_sqlite3.dll
